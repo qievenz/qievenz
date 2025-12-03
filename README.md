@@ -43,7 +43,7 @@ I am probably building something or learning some stuff. Feel free to look aroun
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a Ko-fi"/>
   </a>
   
-  <a href="[https://ko-fi.com/qievenz](https://buymeacoffee.com/qievenz)">
+  <a href="https://ko-fi.com/qievenz">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee"/>
   </a>
 
