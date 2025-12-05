@@ -1,12 +1,9 @@
 # Tu usuario de Ko-fi (solo el nombre, sin la url)
 ko_fi: qievenz
 
-# Tu usuario de Buy Me a Coffee (solo el nombre)
-#buy_me_a_coffee: qievenz
-
 # Plataformas personalizadas (aquí van las URLs completas)
 custom: [
+  "https://ko-fi.com/qievenz",
   "https://cafecito.app/qievenz", 
-  #"https://polar.sh/qievenz", 
   "https://paypal.me/qievenz"
 ]

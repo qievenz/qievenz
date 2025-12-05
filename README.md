@@ -39,12 +39,16 @@ I am probably building something or learning some stuff. Feel free to look aroun
 
   <p>If my scripts or tools have helped you, consider buying me a coffee:</p>
   
-  <a href="https://ko-fi.com/qievenz">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a Ko-fi"/>
-  </a>
-  
-  <a href="https://buymeacoffee.com/qievenz">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee"/>
-  </a>
+<a href='https://ko-fi.com/qievenz' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
+<a href='https://cafecito.app/qievenz' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitar un café en cafecito.app' />
+</a>
+
+<a href="https://paypal.me/qievenz" target="_blank">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 36px !important;" >
+</a>
 
 </div>
